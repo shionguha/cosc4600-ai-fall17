@@ -5,5 +5,8 @@ This is the official website for COSC 4600 / MSCS 5600 : Fundamentals of Artific
 
 **aug 31:** introduction to the social networks; fundamental properties of networks
 
-**sep 06:** types of social networks; introduction to centrality metrics
+**sep 05:** types of social networks; introduction to centrality metrics
 
+**sep 07** centrality metrics continued
+
+**sep 12** introduction to machine learning; clustering algorithms
