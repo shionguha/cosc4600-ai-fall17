@@ -10,3 +10,13 @@ This is the official website for COSC 4600 / MSCS 5600 : Fundamentals of Artific
 **sep 07** centrality metrics continued
 
 **sep 12** introduction to machine learning; clustering algorithms
+
+**sep 12:** introduction to clustering; k-means and dbscan
+
+**sep 14:** introduction to clustering; spectral and graph based clustering
+
+**sep 19:** introduction to naive bayes;
+
+**sep 21:** introduction to logistic regression;
+
+**sep 26:** decision trees and random forests;
