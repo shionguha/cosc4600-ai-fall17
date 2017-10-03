@@ -20,3 +20,7 @@ This is the official website for COSC 4600 / MSCS 5600 : Fundamentals of Artific
 **sep 21:** introduction to logistic regression;
 
 **sep 26:** decision trees and random forests;
+
+**sep 28:** clusters, cliques, clans, components etc.;
+
+**oct 3:** preferential attachment model;
