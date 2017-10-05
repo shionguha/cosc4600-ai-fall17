@@ -24,3 +24,5 @@ This is the official website for COSC 4600 / MSCS 5600 : Fundamentals of Artific
 **sep 28:** clusters, cliques, clans, components etc.;
 
 **oct 3:** preferential attachment model;
+
+**oct 5:** sir model;
