@@ -26,3 +26,13 @@ This is the official website for COSC 4600 / MSCS 5600 : Fundamentals of Artific
 **oct 3:** preferential attachment model;
 
 **oct 5:** sir model;
+
+**oct 10:** initial project presentations;
+
+**oct 12:** small world networks;
+
+**oct 17:** introduction to game theory;
+
+**oct 19:** no class, fall break
+
+**oct 24:** guest lecture by Alex Czachor, Senior Data Scientist, Northwestern Mutual
