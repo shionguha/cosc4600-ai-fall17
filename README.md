@@ -36,3 +36,15 @@ This is the official website for COSC 4600 / MSCS 5600 : Fundamentals of Artific
 **oct 19:** no class, fall break
 
 **oct 24:** guest lecture by Alex Czachor, Senior Data Scientist, Northwestern Mutual
+
+**oct 26:** no class because of intel deep learning seminar makeup
+
+**oct 31:** guest lecture by Nithin Ramachandran, Director, Data Science, Direct Supply
+
+**nov 02:** guest lecture by RJ Nowling, Lecturer and Data Science Engineer, Marquette University
+
+**nov 07:** nash equilibria, coordination games and multiple equilibria; readings: chapter 6
+
+**nov 09:** introduction to markets and matching markets; readings: chapter 10
+
+**nov 14:** more matching markets; readings: chapter 10 , more mathy stuff at duke
